@@ -1,0 +1,13 @@
+h1 {
+    color: crimson;
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    color: darkslategray;
+}
+
+p {
+    font-size: 20px;
+}
